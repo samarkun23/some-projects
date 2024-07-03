@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flexbox;
+    justify-content: space-around;
+    align-items: center;
+}
+.right ul{
+    display: flex;
+ 
+}
+.logo{
+    display: flex;
+    width: 15px;
+}
+.right ul li {
+    list-style: none;
+}
